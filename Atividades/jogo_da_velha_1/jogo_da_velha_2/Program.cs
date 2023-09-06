@@ -28,16 +28,16 @@ class jogo_da_velha{
                         {
                             matriz[i,j]=valor;
                         
-                            valor = 0;
+                           // valor = 0;
                             Console.WriteLine(" A sua jogada foi valida ");
-                            Console.WriteLine($"\n Agora é vez do jogador [{valor}]  ");
+                            //Console.WriteLine($"\n Agora é vez do jogador [{valor}]  ");
                         }
                         else
                         {
                             matriz[i,j]=valor;
-                            valor = 1;
+                            //valor = 1;
                             Console.WriteLine(" A sua jogada foi valida ");
-                            Console.WriteLine($"\n Agora é vez do jogador [{valor}]  ");
+                            //Console.WriteLine($"\n Agora é vez do jogador [{valor}]  ");
                         }
                     }    
                 }
@@ -134,12 +134,13 @@ class jogo_da_velha{
         Console.WriteLine(); 
 
     }
-    static void Fim(int valor) 
+    static void Fim() 
     {
         Console.WriteLine("\n--------------");
+        Console.WriteLine($"\nParabéns!!! ")
         Console.WriteLine("Fim de Jogo!!!");
         Console.WriteLine("--------------");
-        Console.WriteLine($"\nParabéns!!! O ganhador é [{valor}].");
+        //Console.WriteLine($"\nParabéns!!! ");
     }    
 }   
     
