@@ -24,21 +24,12 @@ class jogo_da_velha{
                     }
                     else
                     {  
-                        if (valor == 1)
-                        {
+    
                             matriz[i,j]=valor;
+                            Console.WriteLine(" A sua jogada foi valida ");
                         
-                           // valor = 0;
-                            Console.WriteLine(" A sua jogada foi valida ");
-                            //Console.WriteLine($"\n Agora é vez do jogador [{valor}]  ");
-                        }
-                        else
-                        {
-                            matriz[i,j]=valor;
-                            //valor = 1;
-                            Console.WriteLine(" A sua jogada foi valida ");
-                            //Console.WriteLine($"\n Agora é vez do jogador [{valor}]  ");
-                        }
+                    }
+
                     }    
                 }
             }
