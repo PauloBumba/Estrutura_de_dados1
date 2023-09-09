@@ -1,0 +1,14 @@
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Pilha\Exercícios_Stack\bin\Debug\net7.0\Exercícios_Stack.exe
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Pilha\Exercícios_Stack\bin\Debug\net7.0\Exercícios_Stack.deps.json
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Pilha\Exercícios_Stack\bin\Debug\net7.0\Exercícios_Stack.runtimeconfig.json
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Pilha\Exercícios_Stack\bin\Debug\net7.0\Exercícios_Stack.dll
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Pilha\Exercícios_Stack\bin\Debug\net7.0\Exercícios_Stack.pdb
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Pilha\Exercícios_Stack\obj\Debug\net7.0\Exercícios_Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Pilha\Exercícios_Stack\obj\Debug\net7.0\Exercícios_Stack.AssemblyInfoInputs.cache
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Pilha\Exercícios_Stack\obj\Debug\net7.0\Exercícios_Stack.AssemblyInfo.cs
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Pilha\Exercícios_Stack\obj\Debug\net7.0\Exercícios_Stack.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Pilha\Exercícios_Stack\obj\Debug\net7.0\Exercícios_Stack.dll
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Pilha\Exercícios_Stack\obj\Debug\net7.0\refint\Exercícios_Stack.dll
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Pilha\Exercícios_Stack\obj\Debug\net7.0\Exercícios_Stack.pdb
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Pilha\Exercícios_Stack\obj\Debug\net7.0\Exercícios_Stack.genruntimeconfig.cache
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Pilha\Exercícios_Stack\obj\Debug\net7.0\ref\Exercícios_Stack.dll
