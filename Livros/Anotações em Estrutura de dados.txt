@@ -1,0 +1,49 @@
+NOTA EM C#\
+Extensões em vs code  
+--DREACULA CLEAN 
+--DRACULA OFICIAL 
+--C# 
+--C# DEV KIT 
+--C# EXTEN
+--INTELECODE
+baixar a versão do dotnet sdk
+--httsps://dotnet.microsoft.com/pt-br/learntocode
+dotnet --list-sdk <<para ver a lista de instalação do dotnet >>
+vers dotnet sdk <<para ver as versôes instaladas do dotnet >>
+sdk--software development kit <<kit de desenvolvimento do software>>
+ide--ambiente de desenvolvimento integrado
+xml--exensible mavkup languag 
+html--exensible markup language hyper text
+ww3c--
+gbd--gerenciameto de banco de dados
+===============================================================================================================================
+criar pastar no terminal cmd ou pelo bash  
+--dotnet new console -n "nome_da_pasta"
+--cd nome_da_pasta ou cd primeira letra tab tab para abrie o diretório da pasta criada
+--pode abrir  a pasta pelo terminal digitar code . <<prar abrir a pasta no vs code >>
+==============================================================================================================================
+Tranformar um repósitorio local em remot pelo prontm de comando do bash
+--entrar na pasta onde está o nosso arquivo que queremos transformar em remoto
+--git clone hhps 
+--cd pasta
+--copiar os arquivo na  pasta que queremos adicionario no nosso repositorio
+--git add <<nome da pasta>>
+--git commit -m "nome_que_queremos"
+--git push origin main
+--git pull
+Atualizar as mudanças do meu repositorio local ao remoto
+--git status
+--git add .
+--git commit - m "commit"
+--git push
+=========================================================================================================================
+Stack--Pilha<<FILO ,LIFO>>
+--A class é um tipo de dados abstrato <são dados que vou mesmo vou definir >>
+--Metodos e funções 
+--paramentros
+--push--colocar
+--pop--retiral
+--peek--mostrar 
+--printStack --imprimir
+
+
