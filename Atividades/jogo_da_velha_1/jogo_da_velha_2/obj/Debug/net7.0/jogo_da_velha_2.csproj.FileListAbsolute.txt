@@ -1,0 +1,14 @@
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\jogo_da_velha_1\jogo_da_velha_2\bin\Debug\net7.0\jogo_da_velha_2.exe
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\jogo_da_velha_1\jogo_da_velha_2\bin\Debug\net7.0\jogo_da_velha_2.deps.json
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\jogo_da_velha_1\jogo_da_velha_2\bin\Debug\net7.0\jogo_da_velha_2.runtimeconfig.json
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\jogo_da_velha_1\jogo_da_velha_2\bin\Debug\net7.0\jogo_da_velha_2.dll
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\jogo_da_velha_1\jogo_da_velha_2\bin\Debug\net7.0\jogo_da_velha_2.pdb
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\jogo_da_velha_1\jogo_da_velha_2\obj\Debug\net7.0\jogo_da_velha_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\jogo_da_velha_1\jogo_da_velha_2\obj\Debug\net7.0\jogo_da_velha_2.AssemblyInfoInputs.cache
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\jogo_da_velha_1\jogo_da_velha_2\obj\Debug\net7.0\jogo_da_velha_2.AssemblyInfo.cs
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\jogo_da_velha_1\jogo_da_velha_2\obj\Debug\net7.0\jogo_da_velha_2.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\jogo_da_velha_1\jogo_da_velha_2\obj\Debug\net7.0\jogo_da_velha_2.dll
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\jogo_da_velha_1\jogo_da_velha_2\obj\Debug\net7.0\refint\jogo_da_velha_2.dll
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\jogo_da_velha_1\jogo_da_velha_2\obj\Debug\net7.0\jogo_da_velha_2.pdb
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\jogo_da_velha_1\jogo_da_velha_2\obj\Debug\net7.0\jogo_da_velha_2.genruntimeconfig.cache
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\jogo_da_velha_1\jogo_da_velha_2\obj\Debug\net7.0\ref\jogo_da_velha_2.dll

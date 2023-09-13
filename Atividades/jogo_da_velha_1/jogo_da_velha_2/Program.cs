@@ -7,93 +7,106 @@ class jogo_da_velha{
         {
             int[,] matriz=new int[3,3];
             int valor=0;
-            Console.WriteLine("-------------------");
+            int ultimo_jogador = 0; 
+            Console.WriteLine("================================");
             Console.WriteLine("   JOGO DA VELHA PAULO BUMBA ");
-            Console.WriteLine("-------------------");
+            Console.WriteLine("-------------------==============");
             for(int i=0;i<matriz.GetLength(0);i++)
             {
                 for(int j=0;j<matriz.GetLength(1);j++)
                 {
                     
-                    Console.Write("informe o valor da jogada na posição["+i+";"+j+"] da matriz [entre [{0 e 1}]]");
+                    Console.Write("informe o valor da jogada na posição["+i+";"+j+"] da matriz [entre [{0 e 1}]]  :");
                     string str= Console.ReadLine();
                     int.TryParse(str,out valor);
                     if (valor!=0 && valor!=1)
                     {
-                        Console.WriteLine(" tente novamente");
+                        Console.WriteLine(" A sua jogada não foi valida  ");
+                        Console.WriteLine(" Tente novamente");
                     }
                     else
                     {  
     
                             matriz[i,j]=valor;
+                            ultimo_jogador = valor; 
                             Console.WriteLine(" A sua jogada foi valida ");
                         
                     }
 
                     }    
                 }
-            }
-            if (matriz[0, 0] == matriz[0, 1] && matriz[0, 1] == matriz[0, 2] )
+            
+            if (ultimo_jogador == matriz[0, 0] && matriz[0, 0] == matriz[0, 1] && matriz[0, 1] == matriz[0, 2] )
             {
-                Fim(valor);
+                Fim();
                 Imprimir_matriz(matriz);
-                Console.Write("vetoria na linha 1");
+                Console.WriteLine("vitoria na linha 1");
+                Console.WriteLine($"O jogador {ultimo_jogador} ganhou o jogo!"); 
                 
                 break;
             }
-            else if (matriz[1, 0] == matriz[1, 1] && matriz[1, 1] == matriz[1, 2] )
+            else if (ultimo_jogador == matriz[1, 0] && matriz[1, 0] == matriz[1, 1] && matriz[1, 1] == matriz[1, 2] )
             {
                 Imprimir_matriz(matriz);
-                Console.Write("vetoria na linha 2");
-                Fim(valor);
+                Console.WriteLine("vitoria na linha 2");
+                Console.WriteLine($"O jogador {ultimo_jogador} ganhou o jogo!"); 
+                Fim();
                 
                 break;
             }
-            else if (matriz[2, 0] == matriz[2, 1] && matriz[2, 1] == matriz[2, 2])
+            else if (ultimo_jogador == matriz[2, 0] && matriz[2, 0] == matriz[2, 1] && matriz[2, 1] == matriz[2, 2])
             {
                 Imprimir_matriz(matriz);
-                Console.Write("vetoria na linha 3");
-                Fim(valor);
+                Console.WriteLine("vitoria na linha 3");
+                Console.WriteLine($"O jogador {ultimo_jogador} ganhou o jogo!"); 
+                Fim();
                 break;
             }
-            else if (matriz[0, 0] == matriz[1, 0] && matriz[1, 0] == matriz[2, 0] )
+            else if (ultimo_jogador == matriz[0, 0] && matriz[0, 0] == matriz[1, 0] && matriz[1, 0] == matriz[2, 0] )
             {
-                Console.Write("vetoria na coluna1");
                 Imprimir_matriz(matriz);
-                Fim(valor);
+
+                Console.WriteLine("vitoria na coluna_1");
+                
+                Console.WriteLine($"O jogador {ultimo_jogador} ganhou o jogo!"); 
+                Fim();
                 break;
             }
             
 
-            else if (matriz[0, 1] == matriz[1, 1] && matriz[1, 1] == matriz[2, 1] )
+            else if (ultimo_jogador == matriz[0, 1] && matriz[0, 1] == matriz[1, 1] && matriz[1, 1] == matriz[2, 1] )
             {
                 Imprimir_matriz(matriz);
-                Console.Write("vetoria na coluna2");
-                Fim(valor);
+                Console.WriteLine("vitoria na coluna_2");
+                Console.WriteLine($"O jogador {ultimo_jogador} ganhou o jogo!"); 
+                Fim();
                 break;
             }
             
-            else if (matriz[0, 2] == matriz[1, 2] && matriz[1, 2] == matriz[2, 2])
+            else if (ultimo_jogador == matriz[0, 2] && matriz[0, 2] == matriz[1, 2] && matriz[1, 2] == matriz[2, 2])
             {
                 Imprimir_matriz(matriz);
-                Console.Write("vetoria na coluna3");
-                Fim(valor);
+                Console.WriteLine("vitoria na coluna_3");
+                Console.WriteLine($"O jogador {ultimo_jogador} ganhou o jogo!"); 
+                Fim();
                 break;
             }
             
-            else if  (matriz[0, 0] == matriz[1, 1] && matriz[1, 1] == matriz[2, 2] )
+            else if (ultimo_jogador == matriz[0, 0] && matriz[0, 0] == matriz[1, 1] && matriz[1, 1] == matriz[2, 2])
             {
                 Imprimir_matriz(matriz);
-                Console.Write("vetoria na diagonal1");
-                Fim(valor);
+                Console.WriteLine("vitoria na diagonal_1");
+                Console.WriteLine($"O jogador {ultimo_jogador} ganhou o jogo!"); 
+                Fim();
                 break;
             }
 
-            else if (matriz[0, 2] == matriz[1, 1] && matriz[1, 1] == matriz[2, 0])
+            else if (ultimo_jogador == matriz[0, 2] && matriz[0, 2] == matriz[1, 1] && matriz[1, 1] == matriz[2, 0])
             {
                 Imprimir_matriz(matriz);
-                Console.Write("vetoria na diagonal2");
-                Fim(valor);
+                Console.WriteLine("vitoria na diagonal_2");
+                Console.WriteLine($"O jogador {ultimo_jogador} ganhou o jogo!"); 
+                Fim();
                 break;
             }
 
@@ -101,10 +114,10 @@ class jogo_da_velha{
             {
                 Imprimir_matriz(matriz);
                 Console.WriteLine("\n--------------");
-                Console.WriteLine("Fim de Jogo!!!");
+                Console.WriteLine("Foi um empate !!!");
                 Console.WriteLine("--------------");
                 Console.WriteLine($"\nQue triste!!! Ninguém ganhou.");
-                Console.WriteLine("tente novamente ");
+                Console.WriteLine("Tente novamente ");
 
             }
         }
@@ -122,45 +135,15 @@ class jogo_da_velha{
                 Console.WriteLine(); 
             }
         }
-        Console.WriteLine(); 
-
+        Console.WriteLine();
     }
     static void Fim() 
     {
         Console.WriteLine("\n--------------");
-        Console.WriteLine($"\nParabéns!!! ")
+        Console.WriteLine($"\nParabéns!!! ");
         Console.WriteLine("Fim de Jogo!!!");
         Console.WriteLine("--------------");
-        //Console.WriteLine($"\nParabéns!!! ");
+        
     }    
 }   
-    
-    
-    
-
-    
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\paulo\\OneDrive\\Desktop\\Estutura_de_dados_1_c#\\Atividades\\jogo_da_velha_1\\jogo_da_velha_2\\jogo_da_velha_2.csproj",
+      "projectUniqueName": "c:\\Users\\paulo\\OneDrive\\Desktop\\Estrutura_de_dados1\\Estrutura_de_dados1\\Atividades\\jogo_da_velha_1\\jogo_da_velha_2\\jogo_da_velha_2.csproj",
       "projectName": "jogo_da_velha_2",
-      "projectPath": "C:\\Users\\paulo\\OneDrive\\Desktop\\Estutura_de_dados_1_c#\\Atividades\\jogo_da_velha_1\\jogo_da_velha_2\\jogo_da_velha_2.csproj",
+      "projectPath": "c:\\Users\\paulo\\OneDrive\\Desktop\\Estrutura_de_dados1\\Estrutura_de_dados1\\Atividades\\jogo_da_velha_1\\jogo_da_velha_2\\jogo_da_velha_2.csproj",
       "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\paulo\\OneDrive\\Desktop\\Estutura_de_dados_1_c#\\Atividades\\jogo_da_velha_1\\jogo_da_velha_2\\obj\\",
+      "outputPath": "c:\\Users\\paulo\\OneDrive\\Desktop\\Estrutura_de_dados1\\Estrutura_de_dados1\\Atividades\\jogo_da_velha_1\\jogo_da_velha_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
