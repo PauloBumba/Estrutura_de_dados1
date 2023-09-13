@@ -1,0 +1,14 @@
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\pilha_string\obj\Debug\net7.0\pilha_string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\pilha_string\obj\Debug\net7.0\pilha_string.AssemblyInfoInputs.cache
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\pilha_string\obj\Debug\net7.0\pilha_string.AssemblyInfo.cs
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\pilha_string\obj\Debug\net7.0\pilha_string.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\pilha_string\bin\Debug\net7.0\pilha_string.exe
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\pilha_string\bin\Debug\net7.0\pilha_string.deps.json
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\pilha_string\bin\Debug\net7.0\pilha_string.runtimeconfig.json
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\pilha_string\bin\Debug\net7.0\pilha_string.dll
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\pilha_string\bin\Debug\net7.0\pilha_string.pdb
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\pilha_string\obj\Debug\net7.0\pilha_string.dll
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\pilha_string\obj\Debug\net7.0\refint\pilha_string.dll
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\pilha_string\obj\Debug\net7.0\pilha_string.pdb
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\pilha_string\obj\Debug\net7.0\pilha_string.genruntimeconfig.cache
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\pilha_string\obj\Debug\net7.0\ref\pilha_string.dll
