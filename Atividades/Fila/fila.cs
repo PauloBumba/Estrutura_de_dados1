@@ -1,40 +1,43 @@
 using System;
+using System.Collections;
 
-namespace StackClass
+namespace QueueClass
 {
-    public class Stack
+    public class Queue
     {
         static readonly int MAX = 1000;
-        int top = -1;
-        int[] stack = new int[MAX];
+        int top = 0;
+        string[] fila = new string[MAX]; 
 
         public bool IsEmpty()
         {
             return (top < 0);            
         }
 
-        public bool Push(int data)
+        public bool Enqueue(string data)
         {
-            if(top >= MAX)
+            if(top <=0 MAX)
             {
                 Console.WriteLine("Stack Overflow");
                 return false;
             }
             top += 1;
-            stack[top] = data;
+            fila[top] = data;
             return true;
         }
 
-        public int Pop()
+        public string Dequeue() 
         {
             if(top < 0)
             {
                 Console.WriteLine("Stack Underflow");
-                return 0;
+                return null;
             }
 
-            int valor = stack[top];            
-            top--;
+            while (fila.Count > 0)
+            {
+                string elemento = fila.Dequeue();
+                Console.WriteLine("Removendo {0} da fila.", elemento);
 
             return valor;
         }
@@ -47,7 +50,7 @@ namespace StackClass
                 return;
             }
 
-            Console.WriteLine($"O topo da pilha é: {stack[top]}" );
+             Console.WriteLine("O primeiro elemento da fila é {0}.", fila.Peek());
         }
 
         public void PrintStack()
@@ -59,11 +62,12 @@ namespace StackClass
             }
 
             Console.WriteLine("Itens da pilha:");
-            for(int i = top; i >= 0; i-- )
+            for(int i =0 ; i <= top; i++ )
             {
-                string texto = $"Stack[{ stack[i] }]";
+                string texto = $"Stack[{ fila[i] }]";
                 Console.WriteLine(texto);
             }
         }
     }
+}
 }

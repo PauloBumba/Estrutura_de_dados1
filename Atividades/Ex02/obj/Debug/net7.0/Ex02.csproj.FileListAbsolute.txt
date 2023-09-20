@@ -1,0 +1,14 @@
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Ex02\obj\Debug\net7.0\Ex02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Ex02\obj\Debug\net7.0\Ex02.AssemblyInfoInputs.cache
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Ex02\obj\Debug\net7.0\Ex02.AssemblyInfo.cs
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Ex02\obj\Debug\net7.0\Ex02.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Ex02\bin\Debug\net7.0\Ex02.exe
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Ex02\bin\Debug\net7.0\Ex02.deps.json
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Ex02\bin\Debug\net7.0\Ex02.runtimeconfig.json
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Ex02\bin\Debug\net7.0\Ex02.dll
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Ex02\bin\Debug\net7.0\Ex02.pdb
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Ex02\obj\Debug\net7.0\Ex02.dll
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Ex02\obj\Debug\net7.0\refint\Ex02.dll
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Ex02\obj\Debug\net7.0\Ex02.pdb
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Ex02\obj\Debug\net7.0\Ex02.genruntimeconfig.cache
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Ex02\obj\Debug\net7.0\ref\Ex02.dll

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Kz8ufPu1cIR1Dfair4K34mBjvzJtbXsKY5TdFrNGPAX7zgeIaPy1H+Pu6d2FsPRSuEqOMYmWNSWvrhhM2ryt9g==",
+  "dgSpecHash": "FzFp47td97Q8oiDltnELBQ1LyLq9VLAMiae3QUwC/sa4g712rkueSTvDa+o9QlhJSik9jefJylI5aXK1VNIxgQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\paulo\\OneDrive\\Desktop\\Estrutura_de_dados1\\Estrutura_de_dados1\\Atividades\\jogo_da_velha_1\\jogo_da_velha_2\\jogo_da_velha_2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "c:\\Users\\paulo\\OneDrive\\Desktop\\Estrutura_de_dados1\\Estrutura_de_dados1\\Atividades\\jogo_da_velha_1\\jogo_da_velha_2\\jogo_da_velha_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paulo\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.11\\microsoft.netcore.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\paulo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.11\\microsoft.windowsdesktop.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\paulo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.11\\microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\paulo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.11\\microsoft.netcore.app.host.win-x64.7.0.11.nupkg.sha512"
+  ],
   "logs": []
 }

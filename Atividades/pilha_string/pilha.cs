@@ -2,7 +2,7 @@ using System;
 
 namespace StackClass
 {
-    public class Stack
+    public class Queue
     {
         static readonly int MAX = 1000;
         int top = -1;

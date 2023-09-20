@@ -1,45 +1,47 @@
 using System;
+using System.Collections;
 
-namespace StackClass
+namespace QueueClass
 {
-    public class Stack
+    public class Queue
     {
         static readonly int MAX = 1000;
         int top = -1;
-        int[] stack = new int[MAX];
+        int [] fila = new int [MAX]; 
 
         public bool IsEmpty()
         {
-            return (top < 0);            
+            return (top < 0);
+                        
         }
 
-        public bool Push(int data)
+        public bool Enqueue(int data)
         {
-            if(top >= MAX)
+            if(top >=MAX )
             {
                 Console.WriteLine("Stack Overflow");
                 return false;
             }
             top += 1;
-            stack[top] = data;
+            fila[top] = data;
             return true;
         }
 
-        public int Pop()
+        public  int Dequeue() 
         {
             if(top < 0)
             {
                 Console.WriteLine("Stack Underflow");
-                return 0;
+                
             }
 
-            int valor = stack[top];            
-            top--;
-
+            int valor = fila[top];            
+            top++;
             return valor;
+            
         }
 
-        public void Peek()
+        public  void Peek()
         {
             if(top < 0)
             {
@@ -47,23 +49,25 @@ namespace StackClass
                 return;
             }
 
-            Console.WriteLine($"O topo da pilha é: {stack[top]}" );
+            Console.WriteLine("O primeiro elemento da fila é {0}.", fila[top]);
+            top++;
         }
 
-        public void PrintStack()
+        public void  PrintFila()
         {
             if(top < 0)
             {
                 Console.WriteLine("Stack Underflow");
-                return;
+
             }
 
             Console.WriteLine("Itens da pilha:");
-            for(int i = top; i >= 0; i-- )
+            for(int i =0 ; i >= top; i++ )
             {
-                string texto = $"Stack[{ stack[i] }]";
+                string texto = $"fila  [{ fila[i] }]";
                 Console.WriteLine(texto);
             }
         }
     }
 }
+

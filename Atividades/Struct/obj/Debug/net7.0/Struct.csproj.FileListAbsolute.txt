@@ -1,0 +1,14 @@
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Struct\obj\Debug\net7.0\Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Struct\obj\Debug\net7.0\Struct.AssemblyInfoInputs.cache
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Struct\obj\Debug\net7.0\Struct.AssemblyInfo.cs
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Struct\obj\Debug\net7.0\Struct.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Struct\bin\Debug\net7.0\Struct.exe
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Struct\bin\Debug\net7.0\Struct.deps.json
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Struct\bin\Debug\net7.0\Struct.runtimeconfig.json
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Struct\bin\Debug\net7.0\Struct.dll
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Struct\bin\Debug\net7.0\Struct.pdb
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Struct\obj\Debug\net7.0\Struct.dll
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Struct\obj\Debug\net7.0\refint\Struct.dll
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Struct\obj\Debug\net7.0\Struct.pdb
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Struct\obj\Debug\net7.0\Struct.genruntimeconfig.cache
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Struct\obj\Debug\net7.0\ref\Struct.dll
