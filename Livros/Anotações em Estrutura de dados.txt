@@ -41,9 +41,22 @@ Stack--Pilha<<FILO ,LIFO>>
 --A class é um tipo de dados abstrato <são dados que vou mesmo vou definir >>
 --Metodos e funções 
 --paramentros
---push--colocar
+--push--adiconar
 --pop--retiral
---peek--mostrar 
---printStack --imprimir
+--peek--mostrar o topo
+--pr
+=========================================================================================================================
+ Enqueue: adiciona um elemento ao final da fila.
+- Dequeue: remove e retorna o elemento no início da fila.
+- Peek: retorna o elemento no início da fila sem removê-lo.
+- Clear: remove todos os elementos da fila.
+- Count: retorna o número de elementos na fila.
+- Contains: verifica se um elemento específico está na fila.
 
-
+tela do Usuario 
+Gui User interface--Vien ou Gui
+interface --contrato da class
+escreva um programa que seja capaz de interagir co usuario 
+o programa deve solicitar ao usuario os pares de chave e values pra a tabela Hash que ira armazeranar nome e Cpf
+o programa deve realizar as devidas operações para evitar as exepcion 
+percorrer e exibir os dados da tela

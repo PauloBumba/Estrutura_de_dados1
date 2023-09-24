@@ -1,0 +1,15 @@
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Exercícios\Tabela_Hush\bin\Debug\net8.0\Tabela_Hush.exe
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Exercícios\Tabela_Hush\bin\Debug\net8.0\Tabela_Hush.deps.json
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Exercícios\Tabela_Hush\bin\Debug\net8.0\Tabela_Hush.runtimeconfig.json
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Exercícios\Tabela_Hush\bin\Debug\net8.0\Tabela_Hush.dll
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Exercícios\Tabela_Hush\bin\Debug\net8.0\Tabela_Hush.pdb
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Exercícios\Tabela_Hush\obj\Debug\net8.0\Tabela_Hush.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Exercícios\Tabela_Hush\obj\Debug\net8.0\Tabela_Hush.AssemblyInfoInputs.cache
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Exercícios\Tabela_Hush\obj\Debug\net8.0\Tabela_Hush.AssemblyInfo.cs
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Exercícios\Tabela_Hush\obj\Debug\net8.0\Tabela_Hush.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Exercícios\Tabela_Hush\obj\Debug\net8.0\Tabela_Hush.sourcelink.json
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Exercícios\Tabela_Hush\obj\Debug\net8.0\Tabela_Hush.dll
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Exercícios\Tabela_Hush\obj\Debug\net8.0\refint\Tabela_Hush.dll
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Exercícios\Tabela_Hush\obj\Debug\net8.0\Tabela_Hush.pdb
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Exercícios\Tabela_Hush\obj\Debug\net8.0\Tabela_Hush.genruntimeconfig.cache
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Exercícios\Tabela_Hush\obj\Debug\net8.0\ref\Tabela_Hush.dll

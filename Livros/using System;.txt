@@ -1,0 +1,44 @@
+using System;
+using System.Collections;
+
+namespace ExemploFila
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // Criar uma fila de strings
+            Queue<string> fila = new Queue<string>();
+
+            // Adicionar elementos à fila
+            fila.Enqueue("Primeiro");
+            fila.Enqueue("Segundo");
+            fila.Enqueue("Terceiro");
+
+            // Mostrar o número de elementos na fila
+            Console.WriteLine("A fila tem {0} elementos.", fila.Count);
+
+            // Mostrar o elemento no início da fila
+            Console.WriteLine("O primeiro elemento da fila é {0}.", fila.Peek());
+
+            // Remover e mostrar os elementos da fila
+            while (fila.Count > 0)
+            {
+                string elemento = fila.Dequeue();
+                Console.WriteLine("Removendo {0} da fila.", elemento);
+            }
+
+            // Mostrar o número de elementos na fila após remover todos
+            Console.WriteLine("A fila tem {0} elementos.", fila.Count);
+        }
+    }
+}
+
+Esse código produz a seguinte saída:
+
+A fila tem 3 elementos.
+O primeiro elemento da fila é Primeiro.
+Removendo Primeiro da fila.
+Removendo Segundo da fila.
+Removendo Terceiro da fila.
+A fila tem 0 elementos.

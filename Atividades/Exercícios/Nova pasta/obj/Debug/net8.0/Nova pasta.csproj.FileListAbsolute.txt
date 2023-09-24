@@ -1,0 +1,15 @@
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Exercícios\Nova pasta\bin\Debug\net8.0\Nova pasta.exe
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Exercícios\Nova pasta\bin\Debug\net8.0\Nova pasta.deps.json
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Exercícios\Nova pasta\bin\Debug\net8.0\Nova pasta.runtimeconfig.json
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Exercícios\Nova pasta\bin\Debug\net8.0\Nova pasta.dll
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Exercícios\Nova pasta\bin\Debug\net8.0\Nova pasta.pdb
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Exercícios\Nova pasta\obj\Debug\net8.0\Nova pasta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Exercícios\Nova pasta\obj\Debug\net8.0\Nova pasta.AssemblyInfoInputs.cache
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Exercícios\Nova pasta\obj\Debug\net8.0\Nova pasta.AssemblyInfo.cs
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Exercícios\Nova pasta\obj\Debug\net8.0\Nova pasta.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Exercícios\Nova pasta\obj\Debug\net8.0\Nova pasta.sourcelink.json
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Exercícios\Nova pasta\obj\Debug\net8.0\Nova pasta.dll
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Exercícios\Nova pasta\obj\Debug\net8.0\refint\Nova pasta.dll
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Exercícios\Nova pasta\obj\Debug\net8.0\Nova pasta.pdb
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Exercícios\Nova pasta\obj\Debug\net8.0\Nova pasta.genruntimeconfig.cache
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Exercícios\Nova pasta\obj\Debug\net8.0\ref\Nova pasta.dll
