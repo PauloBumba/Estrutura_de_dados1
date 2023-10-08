@@ -1,0 +1,15 @@
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Exercícios\Stuture\bin\Debug\net8.0\Stuture.exe
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Exercícios\Stuture\bin\Debug\net8.0\Stuture.deps.json
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Exercícios\Stuture\bin\Debug\net8.0\Stuture.runtimeconfig.json
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Exercícios\Stuture\bin\Debug\net8.0\Stuture.dll
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Exercícios\Stuture\bin\Debug\net8.0\Stuture.pdb
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Exercícios\Stuture\obj\Debug\net8.0\Stuture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Exercícios\Stuture\obj\Debug\net8.0\Stuture.AssemblyInfoInputs.cache
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Exercícios\Stuture\obj\Debug\net8.0\Stuture.AssemblyInfo.cs
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Exercícios\Stuture\obj\Debug\net8.0\Stuture.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Exercícios\Stuture\obj\Debug\net8.0\Stuture.sourcelink.json
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Exercícios\Stuture\obj\Debug\net8.0\Stuture.dll
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Exercícios\Stuture\obj\Debug\net8.0\refint\Stuture.dll
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Exercícios\Stuture\obj\Debug\net8.0\Stuture.pdb
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Exercícios\Stuture\obj\Debug\net8.0\Stuture.genruntimeconfig.cache
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Exercícios\Stuture\obj\Debug\net8.0\ref\Stuture.dll
