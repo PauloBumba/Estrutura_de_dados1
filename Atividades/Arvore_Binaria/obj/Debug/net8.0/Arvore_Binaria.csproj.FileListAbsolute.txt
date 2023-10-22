@@ -1,0 +1,15 @@
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Arvore_Binaria\obj\Debug\net8.0\Arvore_Binaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Arvore_Binaria\obj\Debug\net8.0\Arvore_Binaria.AssemblyInfoInputs.cache
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Arvore_Binaria\obj\Debug\net8.0\Arvore_Binaria.AssemblyInfo.cs
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Arvore_Binaria\obj\Debug\net8.0\Arvore_Binaria.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Arvore_Binaria\obj\Debug\net8.0\Arvore_Binaria.sourcelink.json
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Arvore_Binaria\bin\Debug\net8.0\Arvore_Binaria.exe
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Arvore_Binaria\bin\Debug\net8.0\Arvore_Binaria.deps.json
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Arvore_Binaria\bin\Debug\net8.0\Arvore_Binaria.runtimeconfig.json
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Arvore_Binaria\bin\Debug\net8.0\Arvore_Binaria.dll
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Arvore_Binaria\bin\Debug\net8.0\Arvore_Binaria.pdb
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Arvore_Binaria\obj\Debug\net8.0\Arvore_Binaria.dll
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Arvore_Binaria\obj\Debug\net8.0\refint\Arvore_Binaria.dll
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Arvore_Binaria\obj\Debug\net8.0\Arvore_Binaria.pdb
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Arvore_Binaria\obj\Debug\net8.0\Arvore_Binaria.genruntimeconfig.cache
+C:\Users\paulo\OneDrive\Desktop\Estrutura_de_dados1\Estrutura_de_dados1\Atividades\Arvore_Binaria\obj\Debug\net8.0\ref\Arvore_Binaria.dll
