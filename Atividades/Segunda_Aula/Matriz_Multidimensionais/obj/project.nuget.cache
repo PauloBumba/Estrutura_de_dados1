@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "nbcdYJz0vVaKpA+mlHMJ7YOrKeYO3a5wBH6L3ErbwmXNWNL9NYD7TJFI+GzjZEFtkpeUHfakOueRAoQEN+xMvQ==",
+  "dgSpecHash": "uK4XRgo4Qg+nSMvm4TfWCEEuXN1NBzbDTUVaagLIc6nS06MH/RiAMBu383uVTnO/1e8G15PswCWqgmFH9I9SZw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\paulo\\OneDrive\\Desktop\\Estutura_de_dados_1_c#\\Atividades\\Segunda_Aula\\Matriz_Multidimensionais\\Matriz_Multidimensionais.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\paulo\\OneDrive\\Desktop\\Estrutura_de_dados1\\Estrutura_de_dados1\\Atividades\\Segunda_Aula\\Matriz_Multidimensionais\\Matriz_Multidimensionais.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paulo\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.11\\microsoft.netcore.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\paulo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.11\\microsoft.windowsdesktop.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\paulo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.11\\microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\paulo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.11\\microsoft.netcore.app.host.win-x64.7.0.11.nupkg.sha512"
+  ],
   "logs": []
 }

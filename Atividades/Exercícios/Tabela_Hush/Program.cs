@@ -20,11 +20,18 @@ class Pro{
                 {
                     Console.Write("Iforme um CPF :");
                     CPF =Console.ReadLine();
-                    if (Cadastro.ContainsKey($"{CPF}"))
+                    try{
+                            Cadastro.ContainsKey($"{CPF}");
+                    }
+
+                    catch
                     {
+
                         Console.WriteLine("CPF duplicado. Não podemos realizar o cadastro. Tente novamente.");
                         continue;
                     }
+                    
+                        
                     else if (CPF.Length != 11)
                     {
                         Console.WriteLine("CPF inválido. Deve ter 11 dígitos. Tente novamente.");

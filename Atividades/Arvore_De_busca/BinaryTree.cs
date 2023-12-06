@@ -7,7 +7,7 @@ namespace Arvore_De_busca
 {
     public class BinaryTree
     {
-         public NodeTree root;
+        public NodeTree root;
         public BinaryTree(int value)
         {
             root=null;
@@ -33,6 +33,51 @@ namespace Arvore_De_busca
                 }
             }
             return root;
+        
+        }
+        public void Remove (int value){
+            root=Removerec(root,value);
+            return;
+        }
+        public NodeTree Removerec(NodeTree root, int value)
+        {
+            if(root==null){
+                Console.Write("Stack overflow 5 ")
+                return;
+            }
+            if(value<root.Value){
+                root.Left=Removerec(root.Left,value);
+                
+            }
+            else if(value>root.Value){
+                root.Right=Removerec(root.Right,value);
+            }
+            else
+            {
+                if(root.Left==null && root.Right==null){
+                    return null;
+                }
+                else if (root.Left==null){
+                    return null;
+                    
+                }
+                else if (root.Right==null){
+                    return null;
+                    
+                }
+                root.Value=MinValue(root.Right);
+                root.Right=Removerec(root.Right,root.Value);
+                
+                private int MinValue(NodeTree root){
+                    while(root.Left!=null){
+                        MinValue=root.Left.Value;
+                        root=root.Left;
+                    }
+                    return MinValue
+                }
+            }
+
+            return root
         }
         public void Pre_order(NodeTree root)
         {

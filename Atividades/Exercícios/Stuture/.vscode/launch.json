@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/paulo/AppData/Local/Temp/Temp74329acc-c9e1-4060-ba5b-6db0a4902dbf_nasm-2.16.02rc1.zip/asm",
+      "program": "c:/Users/paulo/AppData/Local/Temp/Temp74329acc-c9e1-4060-ba5b-6db0a4902dbf_nasm-2.16.02rc1.zip/asm/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
